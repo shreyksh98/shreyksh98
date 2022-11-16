@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently working as a Business Analyst II and am working on improving my Machine Learning, Python, SQL, and BI Skills!<br>I am currently learning Statistical Analytics and am working on a 30-day python challenge and a 30-day SQL challenge.<br>Ask me about Python, Machine Learning, Excel, the process of completing an MS in the USA, international studies and immigration stuff, coffee, must-visit restaurants in NJ/NYC, and video games!<br>Fun fact - I am not superstitious, but I am a little stitious.
+🔭 I’m currently working on: I am currently working as a Business Analyst II and am working on improving my Machine Learning, Python, SQL, and BI Skills!<br>
+🌱 I’m currently learning: I am currently learning Statistical Analytics and am working on a 30-day python challenge and a 30-day SQL challenge.<br>
+💬 Ask me about: Ask me about Python, Machine Learning, Excel, the process of completing an MS in the USA, international studies and immigration stuff, coffee, must-visit restaurants in NJ/NYC, and video games!<br>
+📫 How to reach me: Reach me via shreykshatriya@outlook.com<br>
+⚡Fun fact: I am not superstitious, but I am a little stitious.
 
 
 ## 🌐 Socials:
