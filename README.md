@@ -3,7 +3,7 @@
 <!--
 **shreyksh98/shreyksh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 💫 About Me:
+💫 About Me:
 🔭I’m currently working on: I am currently working as a Business Analyst II and am working on improving my Machine Learning, Python, SQL, and BI Skills!<br>
 🌱I’m currently learning: I am currently learning Statistical Analytics and am working on a 30-day python challenge and a 30-day SQL challenge.<br>
 💬Ask me about: Ask me about Python, Machine Learning, Excel, the process of completing an MS in the USA, international studies and immigration stuff, coffee, must-visit restaurants in NJ/NYC, and video games!<br>
